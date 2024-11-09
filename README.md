@@ -3,8 +3,7 @@ git practice : https://github.com/
 
 '''
 hi 
-bro 
-learn 
-git
+let us 
+create conflict
 
 '''
